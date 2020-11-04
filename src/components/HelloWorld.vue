@@ -83,7 +83,7 @@ export default {
         },
         series: [
           {
-            name: "Курс",
+            name: "Currency",
             data: [],
           },
         ],
